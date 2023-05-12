@@ -1,0 +1,19 @@
+#searchbar {
+  width: 40rem;
+  height: 2em;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+.searchNav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.valider {
+  width: 5rem;
+  font-family: "Krona One", sans-serif;
+  font-size: 10px;
+}
